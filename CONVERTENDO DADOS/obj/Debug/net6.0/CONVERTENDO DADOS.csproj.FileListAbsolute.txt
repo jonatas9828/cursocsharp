@@ -1,0 +1,15 @@
+C:\Users\jonat\Desktop\CursoCsharp\CONVERTENDO DADOS\bin\Debug\net6.0\CONVERTENDO DADOS.exe
+C:\Users\jonat\Desktop\CursoCsharp\CONVERTENDO DADOS\bin\Debug\net6.0\CONVERTENDO DADOS.deps.json
+C:\Users\jonat\Desktop\CursoCsharp\CONVERTENDO DADOS\bin\Debug\net6.0\CONVERTENDO DADOS.runtimeconfig.json
+C:\Users\jonat\Desktop\CursoCsharp\CONVERTENDO DADOS\bin\Debug\net6.0\CONVERTENDO DADOS.dll
+C:\Users\jonat\Desktop\CursoCsharp\CONVERTENDO DADOS\bin\Debug\net6.0\CONVERTENDO DADOS.pdb
+C:\Users\jonat\Desktop\CursoCsharp\CONVERTENDO DADOS\obj\Debug\net6.0\CONVERTENDO DADOS.csproj.AssemblyReference.cache
+C:\Users\jonat\Desktop\CursoCsharp\CONVERTENDO DADOS\obj\Debug\net6.0\CONVERTENDO DADOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\Desktop\CursoCsharp\CONVERTENDO DADOS\obj\Debug\net6.0\CONVERTENDO DADOS.AssemblyInfoInputs.cache
+C:\Users\jonat\Desktop\CursoCsharp\CONVERTENDO DADOS\obj\Debug\net6.0\CONVERTENDO DADOS.AssemblyInfo.cs
+C:\Users\jonat\Desktop\CursoCsharp\CONVERTENDO DADOS\obj\Debug\net6.0\CONVERTENDO DADOS.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Desktop\CursoCsharp\CONVERTENDO DADOS\obj\Debug\net6.0\CONVERTENDO DADOS.dll
+C:\Users\jonat\Desktop\CursoCsharp\CONVERTENDO DADOS\obj\Debug\net6.0\refint\CONVERTENDO DADOS.dll
+C:\Users\jonat\Desktop\CursoCsharp\CONVERTENDO DADOS\obj\Debug\net6.0\CONVERTENDO DADOS.pdb
+C:\Users\jonat\Desktop\CursoCsharp\CONVERTENDO DADOS\obj\Debug\net6.0\CONVERTENDO DADOS.genruntimeconfig.cache
+C:\Users\jonat\Desktop\CursoCsharp\CONVERTENDO DADOS\obj\Debug\net6.0\ref\CONVERTENDO DADOS.dll

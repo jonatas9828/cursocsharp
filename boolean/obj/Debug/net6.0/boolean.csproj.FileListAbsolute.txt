@@ -1,0 +1,15 @@
+C:\Users\jonat\Desktop\CursoCsharp\boolean\bin\Debug\net6.0\boolean.exe
+C:\Users\jonat\Desktop\CursoCsharp\boolean\bin\Debug\net6.0\boolean.deps.json
+C:\Users\jonat\Desktop\CursoCsharp\boolean\bin\Debug\net6.0\boolean.runtimeconfig.json
+C:\Users\jonat\Desktop\CursoCsharp\boolean\bin\Debug\net6.0\boolean.dll
+C:\Users\jonat\Desktop\CursoCsharp\boolean\bin\Debug\net6.0\boolean.pdb
+C:\Users\jonat\Desktop\CursoCsharp\boolean\obj\Debug\net6.0\boolean.csproj.AssemblyReference.cache
+C:\Users\jonat\Desktop\CursoCsharp\boolean\obj\Debug\net6.0\boolean.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\Desktop\CursoCsharp\boolean\obj\Debug\net6.0\boolean.AssemblyInfoInputs.cache
+C:\Users\jonat\Desktop\CursoCsharp\boolean\obj\Debug\net6.0\boolean.AssemblyInfo.cs
+C:\Users\jonat\Desktop\CursoCsharp\boolean\obj\Debug\net6.0\boolean.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Desktop\CursoCsharp\boolean\obj\Debug\net6.0\boolean.dll
+C:\Users\jonat\Desktop\CursoCsharp\boolean\obj\Debug\net6.0\refint\boolean.dll
+C:\Users\jonat\Desktop\CursoCsharp\boolean\obj\Debug\net6.0\boolean.pdb
+C:\Users\jonat\Desktop\CursoCsharp\boolean\obj\Debug\net6.0\boolean.genruntimeconfig.cache
+C:\Users\jonat\Desktop\CursoCsharp\boolean\obj\Debug\net6.0\ref\boolean.dll

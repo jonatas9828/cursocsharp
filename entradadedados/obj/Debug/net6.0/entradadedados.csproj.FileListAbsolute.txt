@@ -1,0 +1,15 @@
+C:\Users\jonat\Desktop\CursoCsharp\entradadedados\bin\Debug\net6.0\entradadedados.exe
+C:\Users\jonat\Desktop\CursoCsharp\entradadedados\bin\Debug\net6.0\entradadedados.deps.json
+C:\Users\jonat\Desktop\CursoCsharp\entradadedados\bin\Debug\net6.0\entradadedados.runtimeconfig.json
+C:\Users\jonat\Desktop\CursoCsharp\entradadedados\bin\Debug\net6.0\entradadedados.dll
+C:\Users\jonat\Desktop\CursoCsharp\entradadedados\bin\Debug\net6.0\entradadedados.pdb
+C:\Users\jonat\Desktop\CursoCsharp\entradadedados\obj\Debug\net6.0\entradadedados.csproj.AssemblyReference.cache
+C:\Users\jonat\Desktop\CursoCsharp\entradadedados\obj\Debug\net6.0\entradadedados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\Desktop\CursoCsharp\entradadedados\obj\Debug\net6.0\entradadedados.AssemblyInfoInputs.cache
+C:\Users\jonat\Desktop\CursoCsharp\entradadedados\obj\Debug\net6.0\entradadedados.AssemblyInfo.cs
+C:\Users\jonat\Desktop\CursoCsharp\entradadedados\obj\Debug\net6.0\entradadedados.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Desktop\CursoCsharp\entradadedados\obj\Debug\net6.0\entradadedados.dll
+C:\Users\jonat\Desktop\CursoCsharp\entradadedados\obj\Debug\net6.0\refint\entradadedados.dll
+C:\Users\jonat\Desktop\CursoCsharp\entradadedados\obj\Debug\net6.0\entradadedados.pdb
+C:\Users\jonat\Desktop\CursoCsharp\entradadedados\obj\Debug\net6.0\entradadedados.genruntimeconfig.cache
+C:\Users\jonat\Desktop\CursoCsharp\entradadedados\obj\Debug\net6.0\ref\entradadedados.dll

@@ -1,0 +1,15 @@
+C:\Users\jonat\Desktop\CursoCsharp\condicaoswitch\obj\Debug\net6.0\condicaoswitch.csproj.AssemblyReference.cache
+C:\Users\jonat\Desktop\CursoCsharp\condicaoswitch\obj\Debug\net6.0\condicaoswitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\Desktop\CursoCsharp\condicaoswitch\obj\Debug\net6.0\condicaoswitch.AssemblyInfoInputs.cache
+C:\Users\jonat\Desktop\CursoCsharp\condicaoswitch\obj\Debug\net6.0\condicaoswitch.AssemblyInfo.cs
+C:\Users\jonat\Desktop\CursoCsharp\condicaoswitch\obj\Debug\net6.0\condicaoswitch.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Desktop\CursoCsharp\condicaoswitch\bin\Debug\net6.0\condicaoswitch.exe
+C:\Users\jonat\Desktop\CursoCsharp\condicaoswitch\bin\Debug\net6.0\condicaoswitch.deps.json
+C:\Users\jonat\Desktop\CursoCsharp\condicaoswitch\bin\Debug\net6.0\condicaoswitch.runtimeconfig.json
+C:\Users\jonat\Desktop\CursoCsharp\condicaoswitch\bin\Debug\net6.0\condicaoswitch.dll
+C:\Users\jonat\Desktop\CursoCsharp\condicaoswitch\bin\Debug\net6.0\condicaoswitch.pdb
+C:\Users\jonat\Desktop\CursoCsharp\condicaoswitch\obj\Debug\net6.0\condicaoswitch.dll
+C:\Users\jonat\Desktop\CursoCsharp\condicaoswitch\obj\Debug\net6.0\refint\condicaoswitch.dll
+C:\Users\jonat\Desktop\CursoCsharp\condicaoswitch\obj\Debug\net6.0\condicaoswitch.pdb
+C:\Users\jonat\Desktop\CursoCsharp\condicaoswitch\obj\Debug\net6.0\condicaoswitch.genruntimeconfig.cache
+C:\Users\jonat\Desktop\CursoCsharp\condicaoswitch\obj\Debug\net6.0\ref\condicaoswitch.dll

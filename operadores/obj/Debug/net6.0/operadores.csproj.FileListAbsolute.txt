@@ -1,0 +1,15 @@
+C:\Users\jonat\Desktop\CursoCsharp\operadores\bin\Debug\net6.0\operadores.exe
+C:\Users\jonat\Desktop\CursoCsharp\operadores\bin\Debug\net6.0\operadores.deps.json
+C:\Users\jonat\Desktop\CursoCsharp\operadores\bin\Debug\net6.0\operadores.runtimeconfig.json
+C:\Users\jonat\Desktop\CursoCsharp\operadores\bin\Debug\net6.0\operadores.dll
+C:\Users\jonat\Desktop\CursoCsharp\operadores\bin\Debug\net6.0\operadores.pdb
+C:\Users\jonat\Desktop\CursoCsharp\operadores\obj\Debug\net6.0\operadores.csproj.AssemblyReference.cache
+C:\Users\jonat\Desktop\CursoCsharp\operadores\obj\Debug\net6.0\operadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\Desktop\CursoCsharp\operadores\obj\Debug\net6.0\operadores.AssemblyInfoInputs.cache
+C:\Users\jonat\Desktop\CursoCsharp\operadores\obj\Debug\net6.0\operadores.AssemblyInfo.cs
+C:\Users\jonat\Desktop\CursoCsharp\operadores\obj\Debug\net6.0\operadores.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Desktop\CursoCsharp\operadores\obj\Debug\net6.0\operadores.dll
+C:\Users\jonat\Desktop\CursoCsharp\operadores\obj\Debug\net6.0\refint\operadores.dll
+C:\Users\jonat\Desktop\CursoCsharp\operadores\obj\Debug\net6.0\operadores.pdb
+C:\Users\jonat\Desktop\CursoCsharp\operadores\obj\Debug\net6.0\operadores.genruntimeconfig.cache
+C:\Users\jonat\Desktop\CursoCsharp\operadores\obj\Debug\net6.0\ref\operadores.dll

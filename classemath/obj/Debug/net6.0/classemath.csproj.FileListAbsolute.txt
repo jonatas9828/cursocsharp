@@ -1,0 +1,15 @@
+C:\Users\jonat\Desktop\CursoCsharp\classemath\bin\Debug\net6.0\classemath.exe
+C:\Users\jonat\Desktop\CursoCsharp\classemath\bin\Debug\net6.0\classemath.deps.json
+C:\Users\jonat\Desktop\CursoCsharp\classemath\bin\Debug\net6.0\classemath.runtimeconfig.json
+C:\Users\jonat\Desktop\CursoCsharp\classemath\bin\Debug\net6.0\classemath.dll
+C:\Users\jonat\Desktop\CursoCsharp\classemath\bin\Debug\net6.0\classemath.pdb
+C:\Users\jonat\Desktop\CursoCsharp\classemath\obj\Debug\net6.0\classemath.csproj.AssemblyReference.cache
+C:\Users\jonat\Desktop\CursoCsharp\classemath\obj\Debug\net6.0\classemath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\Desktop\CursoCsharp\classemath\obj\Debug\net6.0\classemath.AssemblyInfoInputs.cache
+C:\Users\jonat\Desktop\CursoCsharp\classemath\obj\Debug\net6.0\classemath.AssemblyInfo.cs
+C:\Users\jonat\Desktop\CursoCsharp\classemath\obj\Debug\net6.0\classemath.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Desktop\CursoCsharp\classemath\obj\Debug\net6.0\classemath.dll
+C:\Users\jonat\Desktop\CursoCsharp\classemath\obj\Debug\net6.0\refint\classemath.dll
+C:\Users\jonat\Desktop\CursoCsharp\classemath\obj\Debug\net6.0\classemath.pdb
+C:\Users\jonat\Desktop\CursoCsharp\classemath\obj\Debug\net6.0\classemath.genruntimeconfig.cache
+C:\Users\jonat\Desktop\CursoCsharp\classemath\obj\Debug\net6.0\ref\classemath.dll
